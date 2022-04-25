@@ -1,7 +1,6 @@
 
 package ejercicios_basicos;
 
-import java.nio.file.FileSystemNotFoundException;
 
 public class Basico_1 {
  
